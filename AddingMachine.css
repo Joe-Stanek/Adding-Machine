@@ -1,0 +1,37 @@
+@font-face {
+font-family: Font1;
+src: url(SansCondensedFont.ttf)
+}
+
+#numButton
+{
+  height: 65px;
+  width: 65px;
+  background-color: #90d6ce;
+  font-size: 20px;
+}
+
+#numButton:hover
+{
+  background-color: #6fa69f;
+  height:58px;
+  width: 58px;
+}
+
+body
+{
+background-color:#dbd69a;
+}
+
+
+table
+{
+  font-family: Font1;
+}
+
+h1
+{
+
+  font-family:Font1;
+  font-size: 60px;
+}
